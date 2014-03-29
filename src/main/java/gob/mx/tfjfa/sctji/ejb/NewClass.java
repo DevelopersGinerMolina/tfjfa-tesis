@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package gob.mx.tfjfa.sctji;
+package gob.mx.tfjfa.sctji.ejb;
 
 /**
  *
  * @author rafa
  */
-public class Demo {
+public class NewClass {
     
 }
